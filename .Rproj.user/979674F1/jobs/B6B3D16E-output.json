@@ -1,0 +1,8 @@
+[1,"==> quarto preview projects.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: projects.html\n  standalone: true\n  title-prefix: Oluwadamilare 'Damilare' Adekunle Portfolio\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: cosmo\n  title: Projects\n  \n"]
+[1,"Output created: docs\\projects.html\n\nPreparing to preview\n\r[1/1] index.qmd\n\nWatching files for changes\nBrowse at http://localhost:4782/projects.html\nListening on http://127.0.0.1:4782/\n"]
+[1,"GET: /projects.html\n"]
+[1,"pandoc \n  to: html\n  output-file: projects.html\n  standalone: true\n  title-prefix: Oluwadamilare 'Damilare' Adekunle Portfolio\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: cosmo\n  title: Projects\n  \n"]
+[1,"Output created: docs\\projects.html\n\nWatching files for changes\n"]
+[1,"GET: /projects.html\n"]
+[1,"GET: /projects.html\n"]

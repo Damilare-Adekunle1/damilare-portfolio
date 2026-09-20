@@ -1,0 +1,7 @@
+[1,"==> quarto preview projects.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: projects.html\n  standalone: true\n  title-prefix: Oluwadamilare 'Damilare' Adekunle Portfolio\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: cosmo\n  title: Projects\n  \n"]
+[1,"Output created: docs\\projects.html\n\nPreparing to preview\n\r[1/2] contact.qmd\n"]
+[1,"\r[2/2] cv.qmd\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:6389/projects.html\nListening on http://127.0.0.1:6389/\n"]
+[1,"GET: /projects.html\n"]
+[1,"GET: /cv.html\n"]
