@@ -6,12 +6,13 @@ image-alt: "Professional Headshot"
 ---
 
 
-<div class="welcome-banner">
 <video autoplay muted loop playsinline class="welcome-video">
-  <source src="files/welcome.mp4" type="video/mp4">
-</video>
-</div>
 
+<source src="files/welcome.mp4" type="video/mp4">
+
+</video>
+
+</div>
 
 ![](images/Headshot.jpg){.float-headshot}
 
@@ -32,4 +33,5 @@ Hi, my name is Damilare Adekunle, a second‑year MPH student who is passionate 
 - [LinkedIn](https://www.linkedin.com/in/oluwadamilare-a-41396b286)
 
 ![IT Specialist Networking](images/IT-Specialist-Networking-Badge.png){.left-badge}
+
 

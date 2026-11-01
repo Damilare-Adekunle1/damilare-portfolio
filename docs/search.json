@@ -175,13 +175,6 @@
     "text": "Undergraduate Education\nDegree Name: Bachelor of Science\nInstitution: Georgia Gwinnett College\nLocation: Lawrenceville, GA\nGraduation Year: May 2025\nMajor: Health Science (Public Health)\nMinor: Information Technology\nAwards or Honors: Peer Nominated: Core Values & Empathy in Practice Award Public Health (April 2025); Georgia Gwinnett College President’s List (May 2023 - December 2024); Foundation of Leadership Award from NSLS (April 2024)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Oluwadamilare ‘Damilare’ Adekunle",
-    "section": "",
-    "text": "Hi, my name is Damilare Adekunle, a second‑year MPH student who is passionate about strengthening community health systems, specifically by contributing to solutions that support prevention generally, whether it pertains to reducing access to lethal means, understanding disparities that exacerbate debilitating health conditions, or providing mental-health-related resources to community members and key partners."
-  },
-  {
     "objectID": "index.html#about-me-and-my-work",
     "href": "index.html#about-me-and-my-work",
     "title": "Oluwadamilare ‘Damilare’ Adekunle",
@@ -214,13 +207,13 @@
     "href": "projects.html#deefam-inc.-comic-design",
     "title": "Projects",
     "section": "DeeFam Inc. Comic Design",
-    "text": "DeeFam Inc. Comic Design\nFollow the comic’s narrative, which addresses myths about suicide and harms from firearms, as well as underscores the importance of checking in. Material derived from the Georgia Department of Behavioral Health and Developmental Disabilities (DBHDD).\n\n\n\nDeeFam Comic Inc. Cover Page\n\n\nRead the comic here or view directly below by clicking the play button.\n\n  Your browser does not support the video tag."
+    "text": "DeeFam Inc. Comic Design\nFollow the comic’s narrative, which addresses myths about suicide and harms from firearms, as well as underscores the importance of checking in. Material derived from the Georgia Department of Behavioral Health and Developmental Disabilities (DBHDD).\n\n\n\nDeeFam Comic Inc. Cover Page\n\n\nRead the comic here or view directly below by clicking the play button.\n\n\nYour browser does not support the video tag."
   },
   {
-    "objectID": "projects.html#visualizations",
-    "href": "projects.html#visualizations",
+    "objectID": "projects.html#interactive-data-visualization-with-plotly",
+    "href": "projects.html#interactive-data-visualization-with-plotly",
     "title": "Projects",
-    "section": "Visualizations",
-    "text": "Visualizations\nVisit my GitHub, navigating through the data visualization course repository to see some of the visualizations created using R, Quarto, and ggplot2."
+    "section": "Interactive Data Visualization with Plotly",
+    "text": "Interactive Data Visualization with Plotly\n\nPublic Health Question\nHow does GDP per capita relate to life expectancy across countries, and how have life expectancy trends changed across continents over time?\nThis project was developed using R, Quatro, Plotly, and the Gapminder dataset to examine global health and economic indicators. The visualizations allow individuals to investigate individual countries while maintaining visibility of larger population-level trends.\n\n\nInteractive Scatterplot\nThe scatterplot displays the relationship between GDP per capita and life expectancy among countries in 2007.\n\n\n\n\n\n\n\nHow to Use\n\nHover over a point to view country-level details.\nClick continent names in the legend to hide or display groups.\nZoom into dense areas using the Plotly toolbar.\nDouble-click to reset the display.\n\n\n\n\nInteractive Trend Visualization\nThis visualization shows changes in mean country-life expectancy over time for each continent.\n\n\n\n\n\n\n\nWhy Interactivity Helps\nThe unified hover feature allows user to compare all continents during the same year without cluttering the figure with additional labels.\n\n\n\nSearchable Country-Level Data Table\nThe table complements the visualizations by providing exact country-level values and search functionality.\n\n\n\n\n\n\n\n\nInterpretation\nCountries with higher GDP per capita generally experience longer life expectancy, although notable variation remains among countries with similar income levels. Across continents, life expectancy increased over time, though the rate of improvement varied among regions.\n\n\nAccessibility Information\nThis project includes interactive visualizations, written summaries, searchable tables, and static alternatives. There are findings that are also provided without requiring hover interactions. For instance, static versions of the figures and downloadable data are provided to support accessibility and independent review.\n\n\nStatic Figure Alternatives\n\nGDP per Capita and Life Expectancy\n\n\n\nLife Expectancy Trends by Continent\n\n\n\nDownloadable Dataset\nDownload Gapminder 2007 Dataset\n\n\n\nAdditional Visualizations\nAdditional visualizations can be found on my GitHub repository. Navigate through the data visualization course repository to see some of the other visualizations created using R, Quarto, and ggplot2.\nVisit my GitHub."
   }
 ]
