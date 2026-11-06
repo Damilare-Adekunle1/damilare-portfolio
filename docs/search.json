@@ -91,25 +91,81 @@
     "text": "C.R.E.A.T.E Presentation\n\nThe Effect of Regular Physical Activity on the Risk of Developing Stroke\n\nThe effects of physical activity and the risk of stroke development were analyzed using the Mill’s Canons."
   },
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Experience",
+    "objectID": "gis-project.html",
+    "href": "gis-project.html",
+    "title": "GIS Mapping for Community Health",
     "section": "",
-    "text": "Gwinnett United in Drug Education (GUIDE), Inc.\n\n\n\nLawrenceville, GA; Waleska, GA\n\n\n\nConducted research and took certification-based trainings related to Reducing Access to Lethal Means (among youths and adults) and on other topics. Findings were presented to the community (i.e., coalition boards, parents, and businesses).\nProject included creating a booklet (with related resources) along with a presentation based on the steps and findings regarding Reducing Access to Lethal Means among youths and adults. The main topics included firearm, suffocation, and poisoning safety.\n\nUtilized the Canva visual workspace platform to develop a website (https://gwinnettandsurroundingareaschri.my.canva.site/), with help from organizations in Gwinnett and surrounding areas, to provide resources related to harm reduction, mental health services, advocacy, and other categories to community members."
+    "text": "Where are simulated childhood vaccination rates lowest across Georgia counties, and how may clinic locations influence future community health outreach decisions?\n\n\n\nGeographic information systems (GIS) help community health professionals understand how outcomes and resources vary across place. This project demonstrates how choropleth, point, proportional-symbol, and interactive maps can be used to visualize county-level patterns.\n\n\n\nGeorgia county boundaries were obtained through the maps package. Vaccination rates, child population estimates, clinic locations, and annual visits were simulated for instructional purposes."
   },
   {
-    "objectID": "experience.html#lethal-means-prevention-intern-may-2026---july-2026",
-    "href": "experience.html#lethal-means-prevention-intern-may-2026---july-2026",
-    "title": "Experience",
+    "objectID": "gis-project.html#overview",
+    "href": "gis-project.html#overview",
+    "title": "GIS Mapping for Community Health",
     "section": "",
-    "text": "Gwinnett United in Drug Education (GUIDE), Inc.\n\n\n\nLawrenceville, GA; Waleska, GA\n\n\n\nConducted research and took certification-based trainings related to Reducing Access to Lethal Means (among youths and adults) and on other topics. Findings were presented to the community (i.e., coalition boards, parents, and businesses).\nProject included creating a booklet (with related resources) along with a presentation based on the steps and findings regarding Reducing Access to Lethal Means among youths and adults. The main topics included firearm, suffocation, and poisoning safety.\n\nUtilized the Canva visual workspace platform to develop a website (https://gwinnettandsurroundingareaschri.my.canva.site/), with help from organizations in Gwinnett and surrounding areas, to provide resources related to harm reduction, mental health services, advocacy, and other categories to community members."
+    "text": "Where are simulated childhood vaccination rates lowest across Georgia counties, and how may clinic locations influence future community health outreach decisions?\n\n\n\nGeographic information systems (GIS) help community health professionals understand how outcomes and resources vary across place. This project demonstrates how choropleth, point, proportional-symbol, and interactive maps can be used to visualize county-level patterns.\n\n\n\nGeorgia county boundaries were obtained through the maps package. Vaccination rates, child population estimates, clinic locations, and annual visits were simulated for instructional purposes."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "gis-project.html#methods",
+    "href": "gis-project.html#methods",
+    "title": "GIS Mapping for Community Health",
+    "section": "Methods",
+    "text": "Methods\n\nCreated Georgia county polygons using sf\nSimulated vaccination coverage and child population values\nJoined health attributes to county boundaries\nDeveloped choropleth maps, point maps, and proportional-symbol maps\nConstructed an interactive Leaflet map"
+  },
+  {
+    "objectID": "gis-project.html#displayed-maps",
+    "href": "gis-project.html#displayed-maps",
+    "title": "GIS Mapping for Community Health",
+    "section": "Displayed Maps",
+    "text": "Displayed Maps"
+  },
+  {
+    "objectID": "gis-project.html#interpretation",
+    "href": "gis-project.html#interpretation",
+    "title": "GIS Mapping for Community Health",
+    "section": "Interpretation",
+    "text": "Interpretation\nThe classified choropleth map, the first one reveals substantial geographic variation in simulated county vaccination coverage. While many counties were grouped within the 70% to 79.9% coverage range, a considerable number fell below the 70% threshold, indicating potential gaps in vaccination uptake. Counties with lower coverage appeared in multiple parts of the state rather than being limited to one geographic area, suggesting that challenges to vaccination may affect diverse communities. The map provides a useful screening tool for identifying locations that may warrant additional investigation, resource allocation, or health communication interventions. However, the visualization alone does not explain why coverage differs across counties and should not be used to infer causal relationships.\nThe second image demonstrates the simulated vaccination coverage varied considerably across Georgia counties, with both higher- and lower-coverage areas appearing throughout the state. The map suggests that vaccination levels were not uniform across counties and may help identify locations that warrant additional monitoring or outreach efforts."
+  },
+  {
+    "objectID": "gis-project.html#limitations",
+    "href": "gis-project.html#limitations",
+    "title": "GIS Mapping for Community Health",
+    "section": "Limitations",
+    "text": "Limitations\nThe vaccination coverage values shown in this map are simulated and should not be interpreted as real public health measurements. Furthermore, because the data are presented at the county level, observed geographic differences may not accurately represent the experiences or characteristics of individuals living within those counties."
+  },
+  {
+    "objectID": "gis-project.html#accessibility-information",
+    "href": "gis-project.html#accessibility-information",
+    "title": "GIS Mapping for Community Health",
+    "section": "Accessibility Information",
+    "text": "Accessibility Information\nAccessibility was supported by providing alternatives of static map, distinct legends, descriptive captions, and written interpretations alongside interactive visualizations. With these, crucial geographic findings can be grasped without requiring mouse-based interactions, clicking, or hovering, thereby improving usability for a larger audience."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
     "section": "",
-    "text": "Below is my full CV.\n\nIf your browser blocks the PDF or you are unable to see it, you may also download my current curriculum vitae.\nThank you!"
+    "text": "Degree Name: Master of Public Health\nInstitution: Morehouse School of Medicine\nLocation: Atlanta, GA\nExpected Graduation: May 2027\nAcademic Focus: Behavioral health communication, healthy equity, program evaluation, and applied data visualization"
+  },
+  {
+    "objectID": "education.html#graduate-education",
+    "href": "education.html#graduate-education",
+    "title": "Education",
+    "section": "",
+    "text": "Degree Name: Master of Public Health\nInstitution: Morehouse School of Medicine\nLocation: Atlanta, GA\nExpected Graduation: May 2027\nAcademic Focus: Behavioral health communication, healthy equity, program evaluation, and applied data visualization"
+  },
+  {
+    "objectID": "education.html#undergraduate-education",
+    "href": "education.html#undergraduate-education",
+    "title": "Education",
+    "section": "Undergraduate Education",
+    "text": "Undergraduate Education\nDegree Name: Bachelor of Science\nInstitution: Georgia Gwinnett College\nLocation: Lawrenceville, GA\nGraduation Year: May 2025\nMajor: Health Science (Public Health)\nMinor: Information Technology\nAwards or Honors: Peer Nominated: Core Values & Empathy in Practice Award Public Health (April 2025); Georgia Gwinnett College President’s List (May 2023 - December 2024); Foundation of Leadership Award from NSLS (April 2024)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "For professional inquiries, contact me at:\nEmail: Adamilare1011@gmail.com\nSchool Email: Oladekunle@msm.edu\nYou may also find me on\n\nGitHub\nLinkedIn"
   },
   {
     "objectID": "about.html",
@@ -147,32 +203,25 @@
     "text": "Hobbies\n\nWorld-flavor experimenting\nDrawing and painting\nHumanitarian outreach\nLiterary exploration\nTraveling\nHandwoven creation\nPhotography"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "For professional inquiries, contact me at:\nEmail: Adamilare1011@gmail.com\nSchool Email: Oladekunle@msm.edu\nYou may also find me on\n\nGitHub\nLinkedIn"
+    "text": "Below is my full CV.\n\nIf your browser blocks the PDF or you are unable to see it, you may also download my current curriculum vitae.\nThank you!"
   },
   {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "Degree Name: Master of Public Health\nInstitution: Morehouse School of Medicine\nLocation: Atlanta, GA\nExpected Graduation: May 2027\nAcademic Focus: Behavioral health communication, healthy equity, program evaluation, and applied data visualization"
+    "text": "Gwinnett United in Drug Education (GUIDE), Inc.\n\n\n\nLawrenceville, GA; Waleska, GA\n\n\n\nConducted research and took certification-based trainings related to Reducing Access to Lethal Means (among youths and adults) and on other topics. Findings were presented to the community (i.e., coalition boards, parents, and businesses).\nProject included creating a booklet (with related resources) along with a presentation based on the steps and findings regarding Reducing Access to Lethal Means among youths and adults. The main topics included firearm, suffocation, and poisoning safety.\n\nUtilized the Canva visual workspace platform to develop a website (https://gwinnettandsurroundingareaschri.my.canva.site/), with help from organizations in Gwinnett and surrounding areas, to provide resources related to harm reduction, mental health services, advocacy, and other categories to community members."
   },
   {
-    "objectID": "education.html#graduate-education",
-    "href": "education.html#graduate-education",
-    "title": "Education",
+    "objectID": "experience.html#lethal-means-prevention-intern-may-2026---july-2026",
+    "href": "experience.html#lethal-means-prevention-intern-may-2026---july-2026",
+    "title": "Experience",
     "section": "",
-    "text": "Degree Name: Master of Public Health\nInstitution: Morehouse School of Medicine\nLocation: Atlanta, GA\nExpected Graduation: May 2027\nAcademic Focus: Behavioral health communication, healthy equity, program evaluation, and applied data visualization"
-  },
-  {
-    "objectID": "education.html#undergraduate-education",
-    "href": "education.html#undergraduate-education",
-    "title": "Education",
-    "section": "Undergraduate Education",
-    "text": "Undergraduate Education\nDegree Name: Bachelor of Science\nInstitution: Georgia Gwinnett College\nLocation: Lawrenceville, GA\nGraduation Year: May 2025\nMajor: Health Science (Public Health)\nMinor: Information Technology\nAwards or Honors: Peer Nominated: Core Values & Empathy in Practice Award Public Health (April 2025); Georgia Gwinnett College President’s List (May 2023 - December 2024); Foundation of Leadership Award from NSLS (April 2024)"
+    "text": "Gwinnett United in Drug Education (GUIDE), Inc.\n\n\n\nLawrenceville, GA; Waleska, GA\n\n\n\nConducted research and took certification-based trainings related to Reducing Access to Lethal Means (among youths and adults) and on other topics. Findings were presented to the community (i.e., coalition boards, parents, and businesses).\nProject included creating a booklet (with related resources) along with a presentation based on the steps and findings regarding Reducing Access to Lethal Means among youths and adults. The main topics included firearm, suffocation, and poisoning safety.\n\nUtilized the Canva visual workspace platform to develop a website (https://gwinnettandsurroundingareaschri.my.canva.site/), with help from organizations in Gwinnett and surrounding areas, to provide resources related to harm reduction, mental health services, advocacy, and other categories to community members."
   },
   {
     "objectID": "index.html#about-me-and-my-work",

@@ -24,8 +24,6 @@ My past and current work combines and shows creativity, research, and leadership
 
 - Develop accessible public health resources.
 
-
-
 ## Hobbies
 
 - World-flavor experimenting
@@ -34,7 +32,6 @@ My past and current work combines and shows creativity, research, and leadership
 - Literary exploration
 - Traveling
 - Handwoven creation
-- Photography 
- 
+- Photography
 
 ![](images/Hobbies-photo-collage.png){.float-headshot}
