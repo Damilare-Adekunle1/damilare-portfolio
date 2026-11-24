@@ -260,3 +260,60 @@ This project includes interactive visualizations, written summaries, searchable 
 Additional visualizations can be found on my GitHub repository. *Navigate through the data visualization course repository to see some of the other visualizations created using R, Quarto, and ggplot2.*
 
 [Visit my GitHub](https://github.com/Damilare-Adekunle1). 
+
+
+## Examining Social Connection, Emotional Support, and Mental Distress Among Georgia Adults
+
+### Project Overview
+
+This project examines social connection, emotional support, and frequent mental distress among adults in Georgia using data from the 2025 Behavioral Risk Factor Surveillance System (BRFSS). Social connection and emotional support play important roles in health and well-being, while limited support may increase vulnerability to poor mental health outcomes. The purpose of this project was to identify demographic groups experiencing greater levels of low social or emotional support and frequent mental distress to inform public health programs, community outreach efforts, and resource allocation. 
+
+### Visualizations
+
+This project includes interactive tables and data visualizations that allow users to explore differences in emotional support and mental distress across demographic groups.
+
+Income subgroup is depicted below as one of the visualization.
+
+![](images/Income-visualization-final-project.png) 
+
+### Methods
+
+This project used 2025 CDC BRFSS data for Georgia adults. Variables related to social and emotional support, mental distress, age, sex, income, and race/ethnicity were analyzed using R and Quarto. Descriptive analyses, interactive tables, and visualizations were developed to identify demographic differences in support deficits and mental distress. 
+
+### Technologies Used
+
+- R
+
+- Quatro
+
+- tidyverse
+
+- ggplot2
+
+- DT
+
+- Git
+
+- GitHub Pages
+
+### Major Findings
+
+- Younger adults reported the highest levels of low social and emotional support.
+
+- Lower-income adults experienced substantially higher levels of low support and frequent mental distress.
+
+- Differences in support and mental distress were observed across racial and ethnic groups.
+
+- Multiracial adults reported the highest prevalence of frequent mental distress.
+
+- Emotional support deficits and mental distress were not evenly distributed across Georgia's adult population. 
+
+
+### Project Website
+
+[View the Project Website](https://damilare-adekunle1.github.io/PH_Final_Demonstration/)
+
+### GitHub Repository
+
+[View Source Code](https://github.com/Damilare-Adekunle1/PH_Final_Demonstration) 
+
